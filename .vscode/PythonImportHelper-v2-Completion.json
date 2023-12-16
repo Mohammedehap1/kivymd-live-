@@ -1,0 +1,1202 @@
+[
+    {
+        "label": "App",
+        "importPath": "kaki.app",
+        "description": "kaki.app",
+        "isExtraImport": true,
+        "detail": "kaki.app",
+        "documentation": {}
+    },
+    {
+        "label": "Factory",
+        "importPath": "kivy.factory",
+        "description": "kivy.factory",
+        "isExtraImport": true,
+        "detail": "kivy.factory",
+        "documentation": {}
+    },
+    {
+        "label": "kivymd.app",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "kivy.core.window",
+        "description": "kivy.core.window",
+        "isExtraImport": true,
+        "detail": "kivy.core.window",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "kivy.core.window",
+        "description": "kivy.core.window",
+        "isExtraImport": true,
+        "detail": "kivy.core.window",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "kivy.core.window",
+        "description": "kivy.core.window",
+        "isExtraImport": true,
+        "detail": "kivy.core.window",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "kivy.core.window",
+        "description": "kivy.core.window",
+        "isExtraImport": true,
+        "detail": "kivy.core.window",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "kivymd.uix.textfield",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivymd.uix.textfield",
+        "description": "kivymd.uix.textfield",
+        "detail": "kivymd.uix.textfield",
+        "documentation": {}
+    },
+    {
+        "label": "MDTextField",
+        "importPath": "kivymd.uix.textfield",
+        "description": "kivymd.uix.textfield",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.textfield",
+        "documentation": {}
+    },
+    {
+        "label": "MDTopAppBar",
+        "importPath": "kivymd.uix.toolbar",
+        "description": "kivymd.uix.toolbar",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.toolbar",
+        "documentation": {}
+    },
+    {
+        "label": "MDTopAppBar",
+        "importPath": "kivymd.uix.toolbar",
+        "description": "kivymd.uix.toolbar",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.toolbar",
+        "documentation": {}
+    },
+    {
+        "label": "MDTopAppBar",
+        "importPath": "kivymd.uix.toolbar",
+        "description": "kivymd.uix.toolbar",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.toolbar",
+        "documentation": {}
+    },
+    {
+        "label": "MDCard",
+        "importPath": "kivymd.uix.card",
+        "description": "kivymd.uix.card",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.card",
+        "documentation": {}
+    },
+    {
+        "label": "MDCard",
+        "importPath": "kivymd.uix.card",
+        "description": "kivymd.uix.card",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.card",
+        "documentation": {}
+    },
+    {
+        "label": "MDCard",
+        "importPath": "kivymd.uix.card",
+        "description": "kivymd.uix.card",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.card",
+        "documentation": {}
+    },
+    {
+        "label": "NumericProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ColorProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "NumericProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "OptionProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "VariableListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "MDLabel",
+        "importPath": "kivymd.uix.label",
+        "description": "kivymd.uix.label",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.label",
+        "documentation": {}
+    },
+    {
+        "label": "MDLabel",
+        "importPath": "kivymd.uix.label",
+        "description": "kivymd.uix.label",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.label",
+        "documentation": {}
+    },
+    {
+        "label": "MDLabel",
+        "importPath": "kivymd.uix.label",
+        "description": "kivymd.uix.label",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.label",
+        "documentation": {}
+    },
+    {
+        "label": "MDTextButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "MDTextButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "BaseButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "MDFlatButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "MDFloatingActionButtonSpeedDial",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "MDIconButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "MDIconButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "MDChip",
+        "importPath": "kivymd.uix.chip",
+        "description": "kivymd.uix.chip",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.chip",
+        "documentation": {}
+    },
+    {
+        "label": "MDChip",
+        "importPath": "kivymd.uix.chip",
+        "description": "kivymd.uix.chip",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.chip",
+        "documentation": {}
+    },
+    {
+        "label": "kivymd.uix.boxlayout",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "kivy.uix.floatlayout",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivy.uix.floatlayout",
+        "description": "kivy.uix.floatlayout",
+        "detail": "kivy.uix.floatlayout",
+        "documentation": {}
+    },
+    {
+        "label": "FloatLayout",
+        "importPath": "kivy.uix.floatlayout",
+        "description": "kivy.uix.floatlayout",
+        "isExtraImport": true,
+        "detail": "kivy.uix.floatlayout",
+        "documentation": {}
+    },
+    {
+        "label": "kivymd.uix.fitimage",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivymd.uix.fitimage",
+        "description": "kivymd.uix.fitimage",
+        "detail": "kivymd.uix.fitimage",
+        "documentation": {}
+    },
+    {
+        "label": "FitImage",
+        "importPath": "kivymd.uix.fitimage",
+        "description": "kivymd.uix.fitimage",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.fitimage",
+        "documentation": {}
+    },
+    {
+        "label": "FitImage",
+        "importPath": "kivymd.uix.fitimage",
+        "description": "kivymd.uix.fitimage",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.fitimage",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "kivy.uix.button",
+        "description": "kivy.uix.button",
+        "isExtraImport": true,
+        "detail": "kivy.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollView",
+        "importPath": "kivymd.uix.scrollview",
+        "description": "kivymd.uix.scrollview",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.scrollview",
+        "documentation": {}
+    },
+    {
+        "label": "MDFloatLayout",
+        "importPath": "kivymd.uix.floatlayout",
+        "description": "kivymd.uix.floatlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.floatlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDList",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "BaseListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "ImageLeftWidget",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineAvatarListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "ILeftBodyTouch",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineIconListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "MDWidget",
+        "importPath": "kivymd.uix.widget",
+        "description": "kivymd.uix.widget",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "kivymd.uix.widget",
+        "description": "kivymd.uix.widget",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.widget",
+        "documentation": {}
+    },
+    {
+        "label": "MDSmartTile",
+        "importPath": "kivymd.uix.imagelist",
+        "description": "kivymd.uix.imagelist",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.imagelist",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "kivy.uix.image",
+        "description": "kivy.uix.image",
+        "isExtraImport": true,
+        "detail": "kivy.uix.image",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncImage",
+        "importPath": "kivy.uix.image",
+        "description": "kivy.uix.image",
+        "isExtraImport": true,
+        "detail": "kivy.uix.image",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreenManager",
+        "importPath": "kivymd.uix.screenmanager",
+        "description": "kivymd.uix.screenmanager",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screenmanager",
+        "documentation": {}
+    },
+    {
+        "label": "MDFileManager",
+        "importPath": "kivymd.uix.filemanager",
+        "description": "kivymd.uix.filemanager",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.filemanager",
+        "documentation": {}
+    },
+    {
+        "label": "toast",
+        "importPath": "kivymd.toast",
+        "description": "kivymd.toast",
+        "isExtraImport": true,
+        "detail": "kivymd.toast",
+        "documentation": {}
+    },
+    {
+        "label": "MDProgressBar",
+        "importPath": "kivymd.uix.progressbar",
+        "description": "kivymd.uix.progressbar",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.progressbar",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Builder",
+        "importPath": "kivy.lang",
+        "description": "kivy.lang",
+        "isExtraImport": true,
+        "detail": "kivy.lang",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "kivy.metrics",
+        "description": "kivy.metrics",
+        "isExtraImport": true,
+        "detail": "kivy.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ButtonBehavior",
+        "importPath": "kivy.uix.behaviors",
+        "description": "kivy.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivy.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "kivymd.material_resources",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kivymd.material_resources",
+        "description": "kivymd.material_resources",
+        "detail": "kivymd.material_resources",
+        "documentation": {}
+    },
+    {
+        "label": "uix_path",
+        "importPath": "kivymd",
+        "description": "kivymd",
+        "isExtraImport": true,
+        "detail": "kivymd",
+        "documentation": {}
+    },
+    {
+        "label": "ThemableBehavior",
+        "importPath": "kivymd.theming",
+        "description": "kivymd.theming",
+        "isExtraImport": true,
+        "detail": "kivymd.theming",
+        "documentation": {}
+    },
+    {
+        "label": "CircularRippleBehavior",
+        "importPath": "kivymd.uix.behaviors",
+        "description": "kivymd.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBehavior",
+        "importPath": "kivymd.uix.behaviors",
+        "description": "kivymd.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "RectangularRippleBehavior",
+        "importPath": "kivymd.uix.behaviors",
+        "description": "kivymd.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "MDGridLayout",
+        "importPath": "kivymd.uix.gridlayout",
+        "description": "kivymd.uix.gridlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.gridlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDCheckbox",
+        "importPath": "kivymd.uix.selectioncontrol",
+        "description": "kivymd.uix.selectioncontrol",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.selectioncontrol",
+        "documentation": {}
+    },
+    {
+        "label": "MDlive",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class MDlive(App,MDApp ):\n    CLASSES = {\n        \"Home_Screen\":\"mhomescreen\"  \n    }\n    AUTORELOADER_PATHS = [\n        ('.', {'recursive':True})\n    ]\n    def build_app(self, First= False):\n        return Factory.Home_Screen()  \nMDlive().run()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Mlayout",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class Mlayout(MDAnchorLayout):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        #(x,y) = Window.size\n        self.md_bg_color = 1,1,0,0\n        self.size_hint_y = y/y*.91\n        self.add_widget(MDChip(text = 'hello'))\n        self.pos_hint = {'x':x/x*.5}    \nclass MTextButton(MDTextButton):\n    def __init__(self, **kwargs):",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "MTextButton",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class MTextButton(MDTextButton):\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self.theme_text_color= \"Custom\"\n        self.text_color= 0, 0, 1, 1\nclass Mlabel(MDLabel):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.theme_text_color= 'Custom'\n        self.text = str(calendar.monthrange(datetime.now().year, datetime.now().month)[1])",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "Mlabel",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class Mlabel(MDLabel):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.theme_text_color= 'Custom'\n        self.text = str(calendar.monthrange(datetime.now().year, datetime.now().month)[1])\n        self.pos_hint = {'x':0,'y':.39}\n        self.halign = 'center'  \nclass top(MDTopAppBar): \n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "top",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class top(MDTopAppBar): \n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        x = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']\n        self.title= str(datetime.now().year) +\"\\\\\"+str(datetime.now().month)+'\\\\'+str(datetime.now().day)+'\\\\'+x[int(datetime.today().weekday())]\n        self.type = 'top'\n        self.anchor_title = 'center'\n        self.pos_hint= {'top':1}\n        self.left_action_items= [['menu',lambda x : x]]\n        self.md_bg_color = (0.43, .035, .007)    ",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "MCard",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class MCard(MDCard):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.size_hint_x = '1'\n        self.size_hint_y = '.3'\n        self.md_bg_color =.7,.7,.7,1\n        self.add_widget(top())\nclass Home_Screen(MDScreen):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "Home_Screen",
+        "kind": 6,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "class Home_Screen(MDScreen):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.md_bg_color =0,0,0,.9\nprint(Window.size)",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "#Window.size",
+        "kind": 5,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "#Window.size = (350,700)\n(x,y) = Window.size\nclass Mlayout(MDAnchorLayout):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        #(x,y) = Window.size\n        self.md_bg_color = 1,1,0,0\n        self.size_hint_y = y/y*.91\n        self.add_widget(MDChip(text = 'hello'))\n        self.pos_hint = {'x':x/x*.5}    ",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "(x,y)",
+        "kind": 5,
+        "importPath": "mhomescreen copy",
+        "description": "mhomescreen copy",
+        "peekOfCode": "(x,y) = Window.size\nclass Mlayout(MDAnchorLayout):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        #(x,y) = Window.size\n        self.md_bg_color = 1,1,0,0\n        self.size_hint_y = y/y*.91\n        self.add_widget(MDChip(text = 'hello'))\n        self.pos_hint = {'x':x/x*.5}    \nclass MTextButton(MDTextButton):",
+        "detail": "mhomescreen copy",
+        "documentation": {}
+    },
+    {
+        "label": "secoencard",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class secoencard(MDCard):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.md_bg_color = (1,.8,0,1)\n        self.pos_hint={'x':.32,'y':.1}\n        self.radius = 12\n        self.size_hint = (None,.27)\n        self.padding = 4\n        self.add_widget(MDLabel(text = 'sesson_num'))\nclass Md_Floatlayout(MDFloatLayout):",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Md_Floatlayout",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class Md_Floatlayout(MDFloatLayout):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.md_bg_color = 0,0,0,0\n        self.add_widget(Mimage(source = '1.jpg'))\n        self.radius = 16\n        self.add_widget(MDLabel(text='anime_name',pos_hint = {'x':.32,'y':.35}))\n        self.add_widget(secoencard())\n        self.add_widget(MDLabel(text='time_update',pos_hint = {'x':.76,'y':-.4}))\nclass Mimage (FitImage):",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Mimag",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class Mimage (FitImage):\n    def __init__(self,*args, **kwargs):\n        super().__init__(*args,**kwargs)\n        self.pos_hint = {\"x\":0,'y':0}\n        self.size_hint =[x/x*.3,1]\n        self.radius = 12    \nWindow.size = (408,952)\n(x,y) = Window.size\nclass smart(MDCard):\n    def __init__(self, *args, **kwargs):",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "smart",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class smart(MDCard):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.text='lol'\n        self.orientation = \"horizontal\"\n        self.md_bg_color = .2,.2,.2,1\n        self.col_instruction = 2\n        self.size_hint = (1,1)\n        self.radius = 16\n        self.add_widget(Md_Floatlayout())",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "M_List",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class M_List(MDList):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.md_bg_color = 0,2,0,0\n        self.spacing = 10\n        self.size_hint_x = 1\n        for i in range(10):\n            self.size_hint_y = i/5\n            self.add_widget(smart())\n        #self.add_widget(card())",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Scroll_View",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class Scroll_View(ScrollView):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.do_scroll_x: False\n        self.do_scroll_y: True\n        self.md_bg_color = 0,0,0,0\n        self.size_hint_y = y/y*.9\n        self.add_widget(M_List())\n#_____________________________\nclass Top_App_Bar(MDTopAppBar): ",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Top_App_Bar",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class Top_App_Bar(MDTopAppBar): \n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self.md_bg_color = .2,.2,.2,1\n        self.type = 'top'\n        self.pos_hint= {'top':1}\n        self.size_hint_y = y/y*.1\n#______________________________\nclass Home_Screen(MDScreen):\n    def __init__(self, *args, **kwargs):",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Home_Screen",
+        "kind": 6,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "class Home_Screen(MDScreen):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.md_bg_color =0,0,0,.9\n        self.add_widget(Scroll_View()) \n        self.add_widget(Top_App_Bar()) \nprint(Window.size)",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "Window.size",
+        "kind": 5,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "Window.size = (408,952)\n(x,y) = Window.size\nclass smart(MDCard):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.text='lol'\n        self.orientation = \"horizontal\"\n        self.md_bg_color = .2,.2,.2,1\n        self.col_instruction = 2\n        self.size_hint = (1,1)",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "(x,y)",
+        "kind": 5,
+        "importPath": "mhomescreen",
+        "description": "mhomescreen",
+        "peekOfCode": "(x,y) = Window.size\nclass smart(MDCard):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.text='lol'\n        self.orientation = \"horizontal\"\n        self.md_bg_color = .2,.2,.2,1\n        self.col_instruction = 2\n        self.size_hint = (1,1)\n        self.radius = 16",
+        "detail": "mhomescreen",
+        "documentation": {}
+    },
+    {
+        "label": "card",
+        "kind": 6,
+        "importPath": "pytube",
+        "description": "pytube",
+        "peekOfCode": "class card(MDCard):\n  pass\nclass Demo(MDApp):\n    def __init__(self, *args,**kwargs):\n            super().__init__(*args,**kwargs)\n            Window.bind(on_keyboard=self.events)\n            self.manager_open = False\n            self.file_manager = MDFileManager(\n                exit_manager=self.exit_manager, select_path=self.select_path,)\n            self.file_manager.current_path=('/storage/emulated/0/Download/')",
+        "detail": "pytube",
+        "documentation": {}
+    },
+    {
+        "label": "Demo",
+        "kind": 6,
+        "importPath": "pytube",
+        "description": "pytube",
+        "peekOfCode": "class Demo(MDApp):\n    def __init__(self, *args,**kwargs):\n            super().__init__(*args,**kwargs)\n            Window.bind(on_keyboard=self.events)\n            self.manager_open = False\n            self.file_manager = MDFileManager(\n                exit_manager=self.exit_manager, select_path=self.select_path,)\n            self.file_manager.current_path=('/storage/emulated/0/Download/')\n            self.s_file=None\n            self.theme_cls.theme_style =(\"Dark\")",
+        "detail": "pytube",
+        "documentation": {}
+    },
+    {
+        "label": "MDList",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class MDList(MDGridLayout):\n    \"\"\"\n    ListItem container. Best used in conjunction with a\n    :class:`kivy.uix.ScrollView`.\n    When adding (or removing) a widget, it will resize itself to fit its\n    children, plus top and bottom paddings as described by the `MD` spec.\n    For more information, see in the\n    :class:`~kivymd.uix.gridlayout.MDGridLayout` classes documentation.\n    \"\"\"\n    _list_vertical_padding = NumericProperty(\"8dp\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "BaseListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class BaseListItem(\n    DeclarativeBehavior,\n    ThemableBehavior,\n    RectangularRippleBehavior,\n    ButtonBehavior,\n    FloatLayout,\n):\n    \"\"\"\n    Base class to all ListItems. Not supposed to be instantiated on its own.\n    For more information, see in the",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ILeftBody",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ILeftBody:\n    \"\"\"\n    Pseudo-interface for widgets that go in the left container for\n    ListItems that support it.\n    Implements nothing and requires no implementation, for annotation only.\n    \"\"\"\nclass ILeftBodyTouch:\n    \"\"\"\n    Same as :class:`~ILeftBody`, but allows the widget to receive touch\n    events instead of triggering the ListItem's ripple effect.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ILeftBodyTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ILeftBodyTouch:\n    \"\"\"\n    Same as :class:`~ILeftBody`, but allows the widget to receive touch\n    events instead of triggering the ListItem's ripple effect.\n    \"\"\"\nclass IRightBody:\n    \"\"\"\n    Pseudo-interface for widgets that go in the right container for\n    ListItems that support it.\n    Implements nothing and requires no implementation, for annotation only.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IRightBody",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IRightBody:\n    \"\"\"\n    Pseudo-interface for widgets that go in the right container for\n    ListItems that support it.\n    Implements nothing and requires no implementation, for annotation only.\n    \"\"\"\nclass IRightBodyTouch:\n    \"\"\"\n    Same as :class:`~IRightBody`, but allows the widget to receive touch\n    events instead of triggering the ``ListItem``'s ripple effect",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IRightBodyTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IRightBodyTouch:\n    \"\"\"\n    Same as :class:`~IRightBody`, but allows the widget to receive touch\n    events instead of triggering the ``ListItem``'s ripple effect\n    \"\"\"\nclass OneLineListItem(BaseListItem):\n    \"\"\"\n    A one line list item.\n    For more information, see in the :class:`~BaseListItem`\n    classes documentation.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class OneLineListItem(BaseListItem):\n    \"\"\"\n    A one line list item.\n    For more information, see in the :class:`~BaseListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"16dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    _num_lines = 1",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TwoLineListItem(BaseListItem):\n    \"\"\"\n    A two line list item.\n    For more information, see in the :class:`~BaseListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"20dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    def __init__(self, **kwargs):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ThreeLineListItem(BaseListItem):\n    \"\"\"\n    A three line list item.\n    For more information, see in the :class:`~BaseListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"16dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    _num_lines = 3",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineAvatarListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class OneLineAvatarListItem(BaseListItem):\n    \"\"\"\n    A one line list item with left image.\n    For more information, see in the :class:`~BaseListItem`\n    classes documentation.\n    \"\"\"\n    _txt_left_pad = NumericProperty(\"72dp\")\n    _txt_top_pad = NumericProperty(\"20dp\")\n    _txt_bot_pad = NumericProperty(\"19dp\")\n    _height = NumericProperty()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineAvatarListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TwoLineAvatarListItem(OneLineAvatarListItem):\n    \"\"\"\n    A two line list item with left image.\n    For more information, see in the :class:`~OneLineAvatarListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"20dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    _num_lines = 2",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineAvatarListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ThreeLineAvatarListItem(ThreeLineListItem):\n    \"\"\"\n    A three line list item with left image.\n    For more information, see in the :class:`~ThreeLineListItem`\n    classes documentation.\n    \"\"\"\n    _txt_left_pad = NumericProperty(\"72dp\")\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\nclass OneLineIconListItem(OneLineListItem):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class OneLineIconListItem(OneLineListItem):\n    \"\"\"\n    A one line list item with left icon.\n    For more information, see in the :class:`~OneLineListItem`\n    classes documentation.\n    \"\"\"\n    _txt_left_pad = NumericProperty(\"72dp\")\nclass TwoLineIconListItem(OneLineIconListItem):\n    \"\"\"\n    A two line list item with left icon.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TwoLineIconListItem(OneLineIconListItem):\n    \"\"\"\n    A two line list item with left icon.\n    For more information, see in the :class:`~OneLineIconListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"20dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    _num_lines = 2",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ThreeLineIconListItem(ThreeLineListItem):\n    \"\"\"\n    A three line list item with left icon.\n    For more information, see in the :class:`~ThreeLineListItem`\n    classes documentation.\n    \"\"\"\n    _txt_left_pad = NumericProperty(\"72dp\")\nclass OneLineRightIconListItem(OneLineListItem):\n    \"\"\"\n    A one line list item with right icon/image.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineRightIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class OneLineRightIconListItem(OneLineListItem):\n    \"\"\"\n    A one line list item with right icon/image.\n    For more information, see in the :class:`~OneLineListItem`\n    classes documentation.\n    \"\"\"\n    _txt_right_pad = NumericProperty(\"40dp\")\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self._txt_right_pad = dp(40) + m_res.HORIZ_MARGINS",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineRightIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TwoLineRightIconListItem(OneLineRightIconListItem):\n    \"\"\"\n    A two line list item with right icon/image.\n    For more information, see in the :class:`~OneLineRightIconListItem`\n    classes documentation.\n    \"\"\"\n    _txt_top_pad = NumericProperty(\"20dp\")\n    _txt_bot_pad = NumericProperty(\"15dp\")\n    _height = NumericProperty()\n    _num_lines = 2",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineRightIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ThreeLineRightIconListItem(ThreeLineListItem):\n    \"\"\"\n    A three line list item with right icon/image.\n    For more information, see in the :class:`~ThreeLineRightIconListItem`\n    classes documentation.\n    \"\"\"\n    _txt_right_pad = NumericProperty(\"40dp\")\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self._txt_right_pad = dp(40) + m_res.HORIZ_MARGINS",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineAvatarIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class OneLineAvatarIconListItem(OneLineAvatarListItem):\n    \"\"\"\n    A one line list item with left/right icon/image/widget.\n    For more information, see in the :class:`~OneLineAvatarListItem`\n    classes documentation.\n    \"\"\"\n    _txt_right_pad = NumericProperty(\"40dp\")\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self._txt_right_pad = dp(40) + m_res.HORIZ_MARGINS",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TwoLineAvatarIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TwoLineAvatarIconListItem(TwoLineAvatarListItem):\n    \"\"\"\n    A two line list item with left/right icon/image/widget.\n    For more information, see in the :class:`~TwoLineAvatarListItem`\n    classes documentation.\n    \"\"\"\n    _txt_right_pad = NumericProperty(\"40dp\")\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self._txt_right_pad = dp(40) + m_res.HORIZ_MARGINS",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ThreeLineAvatarIconListItem",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ThreeLineAvatarIconListItem(ThreeLineAvatarListItem):\n    \"\"\"\n    A three line list item with left/right icon/image/widget.\n    For more information, see in the :class:`~ThreeLineAvatarListItem`\n    classes documentation.\n    \"\"\"\n    _txt_right_pad = NumericProperty(\"40dp\")\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self._txt_right_pad = dp(40) + m_res.HORIZ_MARGINS",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "TouchBehavior",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TouchBehavior:\n    def on_release(self):\n        if issubclass(self.parent.parent.__class__, BaseListItem):\n            self.parent.parent.dispatch(\"on_release\")\nclass ImageLeftWidget(\n    CircularRippleBehavior, ButtonBehavior, ILeftBodyTouch, FitImage\n):\n    \"\"\"\n    The widget implements the left image for use in ListItem classes.\n    For more information, see in the",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ImageLeftWidget",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ImageLeftWidget(\n    CircularRippleBehavior, ButtonBehavior, ILeftBodyTouch, FitImage\n):\n    \"\"\"\n    The widget implements the left image for use in ListItem classes.\n    For more information, see in the\n    :class:`~kivymd.uix.behaviors.CircularRippleBehavior` and\n    :class:`~kivy.uix.behaviors.ButtonBehavior` and\n    :class:`~ILeftBodyTouch` and\n    :class:`~kivymd.uix.fitimage.FitImage` classes documentation.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ImageLeftWidgetWithoutTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ImageLeftWidgetWithoutTouch(\n    CircularRippleBehavior, TouchBehavior, ButtonBehavior, ILeftBody, FitImage\n):\n    \"\"\"\n    Disables the image event.\n    The widget implements the left image for use in `ListItem` classes.\n    For more information, see in the\n    :class:`~kivymd.uix.behaviors.CircularRippleBehavior` and\n    :class:`~TouchBehavior` and\n    :class:`~kivy.uix.behaviors.ButtonBehavior` and",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ImageRightWidget",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ImageRightWidget(\n    CircularRippleBehavior, ButtonBehavior, IRightBodyTouch, FitImage\n):\n    \"\"\"\n    The widget implements the right image for use in ListItem classes.\n    For more information, see in the\n    :class:`~kivymd.uix.behaviors.CircularRippleBehavior` and\n    :class:`~kivy.uix.behaviors.ButtonBehavior` and\n    :class:`~IRightBodyTouch` and\n    :class:`~kivymd.uix.fitimage.FitImage` classes documentation.",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "ImageRightWidgetWithoutTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class ImageRightWidgetWithoutTouch(\n    CircularRippleBehavior, TouchBehavior, ButtonBehavior, IRightBody, FitImage\n):\n    \"\"\"\n    Disables the image event.\n    The widget implements the right image for use in `ListItem` classes.\n    For more information, see in the\n    :class:`~kivymd.uix.behaviors.CircularRippleBehavior` and\n    :class:`~TouchBehavior` and\n    :class:`~kivy.uix.behaviors.ButtonBehavior` and",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IconRightWidget",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IconRightWidget(IRightBodyTouch, MDIconButton):\n    \"\"\"\n    The widget implements the right icon for use in ListItem classes.\n    For more information, see in the\n    :class:`~IRightBodyTouch` and\n    :class:`~kivymd.uix.button.MDIconButton`\n    classes documentation.\n    \"\"\"\n    pos_hint = {\"center_y\": 0.5}\nclass IconRightWidgetWithoutTouch(TouchBehavior, IRightBody, MDIconButton):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IconRightWidgetWithoutTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IconRightWidgetWithoutTouch(TouchBehavior, IRightBody, MDIconButton):\n    \"\"\"\n    Disables the icon event.\n    The widget implements the right icon for use in ListItem classes.\n    For more information, see in the\n    :class:`~TouchBehavior` and\n    :class:`~IRightBody` and\n    :class:`~kivymd.uix.button.MDIconButton`\n    classes documentation.\n    .. versionadded:: 1.0.0",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IconLeftWidget",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IconLeftWidget(ILeftBodyTouch, MDIconButton):\n    \"\"\"\n    The widget implements the left icon for use in ListItem classes.\n    For more information, see in the\n    :class:`~ILeftBodyTouch` and\n    :class:`~kivymd.uix.button.MDIconButton`\n    classes documentation.\n    \"\"\"\n    pos_hint = {\"center_y\": 0.5}\nclass IconLeftWidgetWithoutTouch(TouchBehavior, ILeftBody, MDIconButton):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "IconLeftWidgetWithoutTouch",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class IconLeftWidgetWithoutTouch(TouchBehavior, ILeftBody, MDIconButton):\n    \"\"\"\n    Disables the icon event.\n    The widget implements the left icon for use in ListItem classes.\n    For more information, see in the\n    :class:`~TouchBehavior` and\n    :class:`~ILeftBody` and\n    :class:`~kivymd.uix.button.MDIconButton`\n    classes documentation.\n    .. versionadded:: 1.0.0",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "CheckboxLeftWidget",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class CheckboxLeftWidget(ILeftBodyTouch, MDCheckbox):\n    \"\"\"\n    The widget implements the left checkbox element for use in ListItem classes.\n    For more information, see in the\n    :class:`~ILeftBodyTouch` and\n    :class:`~kivymd.uix.selectioncontrol.MDCheckbox`\n    classes documentation.\n    \"\"\"",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "__all__ = (\n    \"BaseListItem\",\n    \"MDList\",\n    \"ILeftBodyTouch\",\n    \"IRightBodyTouch\",\n    \"OneLineListItem\",\n    \"TwoLineListItem\",\n    \"ThreeLineListItem\",\n    \"OneLineAvatarListItem\",\n    \"TwoLineAvatarListItem\",",
+        "detail": "test",
+        "documentation": {}
+    }
+]
